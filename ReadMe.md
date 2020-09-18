@@ -35,9 +35,12 @@ from datetime import datetime
 
 ### Sample visualization 
 This shows frequencies of chat over a period of 18 months with over 40,000 messages
+
 ![Sample Plot](/img/vis1.png)
 
+
 ![Sample Plot](/img/vis2.png)
+
 
 License
 ----
